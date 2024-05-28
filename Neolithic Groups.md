@@ -9,7 +9,7 @@ As these groups grew and developed and expand their territory, they slowly began
 One key custom saw that [[mašambeþan]] children who came of age would partake in the [[pratemonleta]] in exchange for the arrangement of marriage to a [[naθeþan]] once their term was served. 
 
 
-##### nomadic settlers 
+##### Nomadic settlers 
 During this time when [[mašambeþan]] and [[naθeþan]] where becoming less distinct from one another a new group of people appeared at the delta of the [[tsamahariθaxat]] and settled on the central island in the delta. They were the [[umìšdăgal]].
 
 ##### Group relations

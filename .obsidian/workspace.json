@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Predynastic Period.md",
+                "file": "README.md",
                 "mode": "source",
                 "source": false
               }
@@ -68,7 +68,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -134,7 +134,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Predynastic Period.md",
+                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -151,7 +151,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Predynastic Period.md",
+                "file": "README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -174,7 +174,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Predynastic Period.md"
+                "file": "README.md"
               }
             }
           }
@@ -195,34 +195,34 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "ec0fafa0e1592622",
+  "active": "5ab64c4254ea1363",
   "lastOpenFiles": [
+    "Unsorted/egete.md",
+    "Unsorted/darjă.md",
+    "Unsorted/aθ.md",
+    "Unsorted/ansavmanq'a.md",
+    "Unsorted/anìnìrah imiθaq'a.md",
+    "Unsorted/angìmì.md",
+    "Unsorted/ame.md",
+    "Unsorted/amanten mašanaraze.md",
+    "Unsorted/amanten gaþem.md",
+    "Unsorted/Aluhăgal.md",
+    "Unsorted/ahaqsatir.md",
+    "Unsorted/Ad'aqilinaq'a.md",
     "README.md",
+    "Predynastic Period.md",
+    "Neolithic Groups.md",
     "Modern Era.md",
     "Into The Modern Era.md",
     "Dates.md",
     "Creation Myth.md",
     "Catalyst Era.md",
-    "Predynastic Period.md",
-    "Neolithic Groups.md",
     "Unsorted/Rìštalinaq'a.md",
     "Unsorted/qilinaq'a.md",
     "Unsorted/Predynastic.md",
     "Unsorted/pratemonleta.md",
     "Unsorted/nurăθaθalanahă.md",
     "Unsorted/lalkano.md",
-    "Unsorted/ìlarhad'a.md",
-    "Unsorted/darjă.md",
-    "Unsorted/aθ.md",
-    "Unsorted/Ad'aqilinaq'a.md",
-    "Unsorted/ahaqsatir.md",
-    "Unsorted/ustsetsenebaša.md",
-    "Unsorted",
-    "Unsorted/umìšdăgal.md",
-    "Unsorted/tsrestal.md",
-    "Unsorted/ts'iqi.md",
-    "Unsorted/tsamaq'uza.md",
-    "Unsorted/tsamahariθaxat.md",
-    "Unsorted/tiragaqă.md"
+    "Unsorted"
   ]
 }

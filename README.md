@@ -77,19 +77,18 @@ The modern Aluhăgal stand at a crossroads, their society in flux as they grappl
 ___
 
 Key Event 1: The Shattering 
-    Description: The nurăθaθalanahă, in their arrogance, trigger the destruction of their paradise. The world is shattered, and the universe is reborn as three distinct realms.
-    Consequences:
-        The land is forever changed, leaving scars and remnants of the old world.
-        Survivors are scattered and traumatized, struggling to adapt to a new reality.
-        A deep-seated fear of divine retribution and the consequences of hubris is instilled in the collective consciousness.
+- Description: The nurăθaθalanahă, in their arrogance, trigger the destruction of their paradise. The world is shattered, and the universe is reborn as three distinct realms.
+- Consequences:
+    - The land is forever changed, leaving scars and remnants of the old world.
+    - Survivors are scattered and traumatized, struggling to adapt to a new reality.
+    - A deep-seated fear of divine retribution and the consequences of hubris is instilled in the collective consciousness.
 
 Key Event 2: The Sowing of Hope 
-    Description: In an act of compassion, the gods plant eight seeds, containing the essence of the nurăθaθalanahă, in the fertile soil of the river basin.
-    Consequences:
-        Hope is rekindled, as the promise of new life and a fresh start emerges.
-        The seeds become a symbol of resilience and the potential for redemption.
-        The river basin becomes a sacred site, associated with divine intervention and the origins of humanity.
-                           
+- Description: In an act of compassion, the gods plant eight seeds, containing the essence of the nurăθaθalanahă, in the fertile soil of the river basin.
+- Consequences:
+    - Hope is rekindled, as the promise of new life and a fresh start emerges.     
+    - The seeds become a symbol of resilience and the potential for redemption.
+    - The river basin becomes a sacred site, associated with divine intervention and the origins of humanity.
 
 ## Expansion Era Events:
 ___
