@@ -54,21 +54,9 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "5ab64c4254ea1363",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "README.md",
-                "mode": "source",
-                "source": false
-              }
-            }
           }
         ],
-        "currentTab": 4
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -134,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
+                "file": "Modern Era.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -151,7 +139,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "README.md",
+                "file": "Modern Era.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -174,7 +162,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "README.md"
+                "file": "Modern Era.md"
               }
             }
           }
@@ -195,8 +183,9 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "5ab64c4254ea1363",
+  "active": "6d807b1ec7995d6e",
   "lastOpenFiles": [
+    "README.md",
     "Unsorted/egete.md",
     "Unsorted/darjă.md",
     "Unsorted/aθ.md",
@@ -209,7 +198,6 @@
     "Unsorted/Aluhăgal.md",
     "Unsorted/ahaqsatir.md",
     "Unsorted/Ad'aqilinaq'a.md",
-    "README.md",
     "Predynastic Period.md",
     "Neolithic Groups.md",
     "Modern Era.md",

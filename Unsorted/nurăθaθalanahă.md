@@ -1,1 +1,0 @@
-A mythological first people who might represent the failed agrarian culture on the southern tip of the continent of [[naþamăqat]], now only two dried lakes remain. 

@@ -1,1 +1,0 @@
-[[maxleþ era]] is the broad term first dynastic era. It is derived from the city of [[qund'asaþ]] that would become a key historical point during the attempted conquests of the coastal territories. 

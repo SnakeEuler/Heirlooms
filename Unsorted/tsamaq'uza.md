@@ -1,1 +1,0 @@
-[[tsamaq'uza]] is the second highest peak of the [[qilinaq'a]] mountains and the furthest known origin point for the [[tsamahariθaxat]] river. 
