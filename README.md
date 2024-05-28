@@ -95,26 +95,26 @@ Key Event 2: The Sowing of Hope
 ___
 
 Key Event 1: The Confluence of Rivers (Positive)
-    Description: A rare confluence of the Luhă river and a neighboring tributary creates an exceptionally fertile flood plain. This abundance of resources leads to a surge in agricultural production, population growth, and the establishment of new settlements along the riverbanks.
-    Consequences:
-        The Aluhăgal population expands rapidly, leading to the need for more land and resources.
-        The surplus of food allows for the development of specialized crafts and trade, increasing the Aluhăgal's economic and political power.
-        The newly settled flood plain becomes a strategic location for agriculture, trade, and military defense.
+- Description: A rare confluence of the Luhă river and a neighboring tributary creates an exceptionally fertile flood plain. This abundance of resources leads to a surge in agricultural production, population growth, and the establishment of new settlements along the riverbanks.
+- Consequences:
+    - The Aluhăgal population expands rapidly, leading to the need for more land and resources.
+    - The surplus of food allows for the development of specialized crafts and trade, increasing the Aluhăgal's economic and political power.
+    - The newly settled flood plain becomes a strategic location for agriculture, trade, and military defense.
 
 Key Event 2: The Silver War (Catastrophe)
 
-Description: Maxleþaxulìtarìned and his followers launch a series of devastating raids on Eþìzera and surrounding settlements. The conflict escalates into a full-scale war, known as the Silver War, due to the involvement of the Ahaqsatir and their unique powers.
-    Consequences:
-        The war causes widespread destruction, loss of life, and economic hardship.
-        The Aluhăgal society is deeply divided, with lasting scars and resentments.
-        The conflict forces the Ahaqsatir to embrace their powers and take on a more active role in protecting their people.
+- Description: Maxleþaxulìtarìned and his followers launch a series of devastating raids on Eþìzera and surrounding settlements. The conflict escalates into a full-scale war, known as the Silver War, due to the involvement of the Ahaqsatir and their unique powers.
+- Consequences:
+    - The war causes widespread destruction, loss of life, and economic hardship.
+    - The Aluhăgal society is deeply divided, with lasting scars and resentments.
+    - The conflict forces the Ahaqsatir to embrace their powers and take on a more active role in protecting their people.
 
 Key Event 3: The Great Drought (Catastrophe)
-    Description: A prolonged drought grips the Luhă valley, leading to crop failures, famine, and social unrest. The scarcity of resources forces the Aluhăgal to seek new sources of water and food.
-    Consequences:
-        The drought weakens the Aluhăgal, making them vulnerable to external threats and internal strife.
-        The search for new resources leads to increased exploration and contact with neighboring cultures.
-        The experience of hardship and loss fosters a sense of resilience and adaptability among the Aluhăgal people.
+- Description: A prolonged drought grips the Luhă valley, leading to crop failures, famine, and social unrest. The scarcity of resources forces the Aluhăgal to seek new sources of water and food.
+- Consequences:
+    - The drought weakens the Aluhăgal, making them vulnerable to external threats and internal strife.
+    - The search for new resources leads to increased exploration and contact with neighboring cultures.
+    - The experience of hardship and loss fosters a sense of resilience and adaptability among the Aluhăgal people.
 
 # Modern Era Events:
 ___
