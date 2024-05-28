@@ -1,0 +1,1 @@
+The [[ahaqsatir]] is the voice and head of the government in terms of operations and common functions. 

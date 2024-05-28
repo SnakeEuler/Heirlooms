@@ -1,0 +1,1 @@
+[[amanten mašanaraze]] is the known term for the north and north eastern groups inhabiting the outer coastal areas of the [[qilinaq'a]] mountains, meaning 'those of lightning'

@@ -1,0 +1,3 @@
+The [[Predynastic]] period of the [[naþamăqat]] and [[luhă]] is considered the 1700-3000 year progression of local groups into what can be classified as distinct singular cultural. The period is also considered the zero dynasty because it encompasses the first centralized rulers of the [[Aluhăgal]] but they are not considered a true dynasty in the proper sense. 
+
+The [[Predynastic]] era ends around the time that [[mìþhanaq]] is taken as the seat of power. 

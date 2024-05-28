@@ -1,0 +1,228 @@
+{
+  "main": {
+    "id": "4c2451533e065857",
+    "type": "split",
+    "children": [
+      {
+        "id": "6cfdb9c97b01d19a",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c1c7679483df058e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "PredynasticPeriod.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "b25282ca9514a2af",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Unsorted/Ad'aqilinaq'a.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "ec0fafa0e1592622",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Catalyst Era.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "6d807b1ec7995d6e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Modern Era.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "5ab64c4254ea1363",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "README.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ],
+        "currentTab": 4
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "1c8786481618154a",
+    "type": "split",
+    "children": [
+      {
+        "id": "3f15af7a6671ca9f",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "1af183540a006356",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "a7bee06a0a42aa29",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "2c3837708c02b355",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "bfb456fd411dbe2f",
+    "type": "split",
+    "children": [
+      {
+        "id": "48d9990466f3e668",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "bcfd2d8ec6d9ba00",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "README.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "a8a5909cf6bafffb",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "README.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "f9c9434ea2709f52",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "0104f4bae389ba7c",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "README.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "5ab64c4254ea1363",
+  "lastOpenFiles": [
+    "Modern Era.md",
+    "README.md",
+    "PredynasticPeriod.md",
+    "Creation Myth.md",
+    "Catalyst Era.md",
+    "Dates.md",
+    "Neolithic Groups.md",
+    "Into The Modern Era.md",
+    "Unsorted/Rìštalinaq'a.md",
+    "Unsorted/qilinaq'a.md",
+    "Unsorted/Predynastic.md",
+    "Unsorted/pratemonleta.md",
+    "Unsorted/nurăθaθalanahă.md",
+    "Unsorted/lalkano.md",
+    "Unsorted/ìlarhad'a.md",
+    "Unsorted/darjă.md",
+    "Unsorted/aθ.md",
+    "Unsorted/Ad'aqilinaq'a.md",
+    "Unsorted/ahaqsatir.md",
+    "Unsorted/ustsetsenebaša.md",
+    "Unsorted",
+    "Unsorted/umìšdăgal.md",
+    "Unsorted/tsrestal.md",
+    "Unsorted/ts'iqi.md",
+    "Unsorted/tsamaq'uza.md",
+    "Unsorted/tsamahariθaxat.md",
+    "Unsorted/tiragaqă.md"
+  ]
+}

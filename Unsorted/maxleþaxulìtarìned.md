@@ -1,0 +1,1 @@
+[[maxleþaxulìtarìned]] is the word or phrasal word that means king or dynast, similar to pharaoh. It derives from the saying, "Praise to the death of the soul." Which was used during the eclipse as a prayer as a way of giving up fear for the loss of your own life in times of darkness or trouble. 

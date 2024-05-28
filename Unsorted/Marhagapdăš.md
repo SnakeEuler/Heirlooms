@@ -1,0 +1,1 @@
+An independent trading culture from a small group of islands to the south east. 

@@ -1,0 +1,1 @@
+The proto-logographic language of the [[Aluhăgal]]
