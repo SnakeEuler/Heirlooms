@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Catalyst Era.md",
+                "file": "README.md",
                 "mode": "source",
                 "source": false
               }
@@ -68,7 +68,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -195,13 +195,13 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "5ab64c4254ea1363",
+  "active": "ec0fafa0e1592622",
   "lastOpenFiles": [
-    "Modern Era.md",
-    "README.md",
     "PredynasticPeriod.md",
-    "Creation Myth.md",
     "Catalyst Era.md",
+    "README.md",
+    "Modern Era.md",
+    "Creation Myth.md",
     "Dates.md",
     "Neolithic Groups.md",
     "Into The Modern Era.md",

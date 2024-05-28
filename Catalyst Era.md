@@ -2,9 +2,7 @@ Predynastic Period
 
 The Predynastic Period marked the rise of the Aluhăgal culture, a fusion of three distinct tribes inhabiting the fertile Luhă river basin:
 
-Mašambeþan: Masters of animal husbandry, stone tools, and early copperworking.
-
-Umìšdăgal: Spiritual leaders and healers, weaving magic and language into their beliefs.
+Mašambeþan: Masters of animal husbandry, stone tools, and early copperworking.Umìšdăgal: Spiritual leaders and healers, weaving magic and language into their beliefs.
 
 Naθeþan: Skilled farmers, weavers, and engineers, renowned for their logistical prowess and boat-building expertise.
 

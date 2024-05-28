@@ -1,4 +1,4 @@
-Game Structure
+# Game Structure
 
 The timeline unfolds across three distinct eras:
     
@@ -8,21 +8,21 @@ Expansion Era: The family ventures forth, seeking fortune, power, or simply a ne
 
 Modern Era: The legacy of the past collides with the challenges and opportunities of the present.
 
-Player Roles
+# Player Roles
 
 Each player assumes the role of a descendant, carrying the weight of their ancestors' choices. Your goal is to collaboratively weave a compelling narrative that spans generations, balancing triumph and tragedy, ambition and adversity.
 
-Events: 
+# Events: 
 
 2 Positive Events: These represent moments of triumph, discovery, or good fortune.
 2 Catastrophes: These depict calamities, setbacks, or devastating losses.
 1 Random Event: This will be rolled on the spot.
 
-Key Events
+# Key Events
 
 Each era features a set of predetermined Key Events, which serve as pivotal moments in history. These events shape the world around your family, providing context and opportunities for interaction.
 
-Prestige Points
+# Prestige Points
 
 Prestige represents your family's standing in society, reflecting their accomplishments, reputation, and influence.
 
@@ -30,22 +30,22 @@ Positive Events: Add +1 Prestige (base value).
 Catastrophes: Subtract -1 Prestige (base value).
 Karmic Events: Multiply the Prestige value of all connected events.
 
-Karmic Echo
+# Karmic Echo
 
 When you play an Event that advances or amplifies another player's event, you trigger a Karmic Echo.
 
 Create a New Event: A new event of the opposite type is generated in the next era.
 Gain an Event: You receive an additional Event Card of the same type you played.
 
-Boons and Burdens
+# Boons and Burdens
 
 If an era concludes with negative Prestige, your family incurs a Burden in the following era, reflecting the lingering consequences of their past actions. However, they also receive a Boon, a unique advantage or opportunity born from adversity.
 
-Personalities
+# Personalities
 
 Each Event introduces or develops key personalities – heroes, villains, rivals, or allies – who shape your family's journey. These figures can become recurring characters in your campaign, their fates intertwined with your own.
 
-Game Flow    
+# Game Flow    
 
 Mythic Era: Begin by establishing the family's origin story, incorporating the two predetermined Key Events. Each player then takes turns playing one of their Event Cards, weaving their individual threads into the shared narrative.
 
