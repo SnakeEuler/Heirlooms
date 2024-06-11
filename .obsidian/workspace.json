@@ -8,12 +8,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "6d807b1ec7995d6e",
+            "id": "2da7cde57d374194",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Rolls.md",
+                "file": "README.md",
                 "mode": "source",
                 "source": false
               }
@@ -43,8 +43,25 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
+      },
+      {
+        "id": "002a613f11a60743",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "75ee77b6df644134",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Current Timeline.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
       }
     ],
     "direction": "vertical"
@@ -94,8 +111,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "bfb456fd411dbe2f",
@@ -111,7 +127,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Rules.md",
+                "file": "Current Timeline.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -128,7 +144,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Rules.md",
+                "file": "Current Timeline.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -151,7 +167,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Rules.md"
+                "file": "Current Timeline.md"
               }
             }
           }
@@ -172,11 +188,13 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "7fb9404453daac86",
+  "active": "75ee77b6df644134",
   "lastOpenFiles": [
     "README.md",
-    "Rules.md",
+    "Current Timeline.md",
+    "Player History.md",
     "Rolls.md",
+    "Rules.md",
     "Magic Users.md",
     "Unsorted/egete.md",
     "Unsorted/darjă.md",
@@ -198,8 +216,6 @@
     "Creation Myth.md",
     "Catalyst Era.md",
     "Unsorted/Rìštalinaq'a.md",
-    "Unsorted/qilinaq'a.md",
-    "Unsorted/Predynastic.md",
     "Unsorted"
   ]
 }

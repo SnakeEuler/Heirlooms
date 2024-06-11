@@ -107,11 +107,11 @@ The modern members of House [Family Name] stand at a crossroads, their society i
 
 **Key Event 2: The Silver War (Catastrophe)**
 
-- **Description:** [Antagonist Name], a charismatic leader disillusioned with the egalitarian ideals of Eþìzera, rallies followers and initiates a series of devastating raids on the city and surrounding settlements. The conflict escalates into the Silver War, a bloody struggle marked by the waning but still potent magic of the Shamans.
+- **Description:** [Antagonist Name], a charismatic leader disillusioned with the egalitarian ideals of [Culture Name], rallies followers and initiates a series of devastating raids on the city and surrounding settlements. The conflict escalates into the Silver War, a bloody struggle marked by the waning but still potent magic of the Shamans.
 - **Consequences:**
     - The war causes widespread destruction, loss of life, and economic hardship, leaving lasting scars on House [Family Name] and the surrounding region.
     - The conflict forces the Shamans to confront the limitations of their powers and adapt to a changing world.
-    - The war deepens the divide between those who embrace tradition and those who seek a new path, setting the stage for future ideological clashes.
+    1. The war deepens the divide between those who embrace tradition and those who seek a new path, setting the stage for future ideological clashes.
 
 **Key Event 3: The Great Drought (Catastrophe)**
 
