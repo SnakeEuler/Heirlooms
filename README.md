@@ -59,7 +59,7 @@ Modern Era: Conclude the timeline with the four Modern Era Key Events and eight 
 
 Legacy: The final Prestige calculation determines the family's ultimate legacy and standing in the world. Their story is complete, but their impact on the game world is just beginning.                          
 # Basic History (Subject to Change)
-FFrom the mists of legend to the bustling cities of the modern era, House [Family Name] has traversed a long and winding path, their history etched into the very fabric of the land they call home. Their journey is a testament to human resilience, ingenuity, and the enduring power of the spirit.
+From the mists of legend to the bustling cities of the modern era, House [Family Name] has traversed a long and winding path, their history etched into the very fabric of the land they call home. Their journey is a testament to human resilience, ingenuity, and the enduring power of the spirit.
 
 **The Mythic Era: Whispers of the Divine**
 
@@ -146,13 +146,13 @@ The modern members of House [Family Name] stand at a crossroads, their society i
 - **Description:** Driven by a thirst for knowledge and resources, House [Family Name] launches a series of ambitious expeditions to explore the vast southern seas. Their skilled navigators and sturdy ships venture into uncharted waters, encountering new lands, exotic cultures, and untold riches.
 - **Consequences:**
     - **Expansion of Trade Networks:** The voyages establish lucrative trade routes with distant lands, bringing exotic goods, spices, and precious metals to [City Name]. This influx of wealth further strengthens the family's economic power.
-    - **Cultural Exchange:** Contact with diverse cultures leads to a vibrant exchange of ideas, technologies, and artistic traditions, enriching the Aluhăgal society and broadening their worldview.
+    - **Cultural Exchange:** Contact with diverse cultures leads to a vibrant exchange of ideas, technologies, and artistic traditions, enriching the [Culture Name] society and broadening their worldview.
     - **Colonization and Conflict:** The establishment of colonies and trade outposts in new lands brings both opportunities and challenges. House [Family Name] must navigate complex relationships with indigenous populations and potential rivals, leading to both alliances and conflicts.
 
 **Key Event 4: The Awakening of the Earth (Catastrophe)**
 
 - **Description:** A catastrophic earthquake rocks the Luhă valley, unleashing its fury upon the land and its people. The once-fertile plains are scarred by deep fissures, cities crumble, and countless lives are lost in the devastation. House [Family Name] is shaken to its core, facing a crisis that threatens to unravel their hard-won progress.
 - **Consequences:**
-    - **Loss and Grief:** The earthquake leaves a trail of destruction, claiming the lives of loved ones and shattering the dreams of many. The Aluhăgal mourn their losses and grapple with the trauma of the disaster.
+    - **Loss and Grief:** The earthquake leaves a trail of destruction, claiming the lives of loved ones and shattering the dreams of many. The [Culture Name] mourn their losses and grapple with the trauma of the disaster.
     - **Social Upheaval:** The disaster disrupts the social order, exposing vulnerabilities in the system and fueling discontent among the populace. This leads to a questioning of traditional authority and a search for new leadership.
-    - **Rebuilding and Renewal:** In the face of immense adversity, the Aluhăgal people come together to rebuild their shattered communities. The experience of loss and suffering fosters a newfound sense of unity and resilience, as they draw upon their collective strength to forge a new path forward
+    - **Rebuilding and Renewal:** In the face of immense adversity, the [Culture Name] people come together to rebuild their shattered communities. The experience of loss and suffering fosters a newfound sense of unity and resilience, as they draw upon their collective strength to forge a new path forward

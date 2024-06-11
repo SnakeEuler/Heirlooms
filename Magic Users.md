@@ -1,1 +1,1 @@
-Magic Users
+Magic Users are ded, you caint be.

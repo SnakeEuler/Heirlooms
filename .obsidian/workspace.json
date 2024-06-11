@@ -13,7 +13,19 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
+                "file": "Rolls.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "7fb9404453daac86",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Rules.md",
                 "mode": "source",
                 "source": false
               }
@@ -31,7 +43,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -98,7 +111,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
+                "file": "Rules.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +128,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "README.md",
+                "file": "Rules.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +151,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "README.md"
+                "file": "Rules.md"
               }
             }
           }
@@ -159,11 +172,12 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "6d807b1ec7995d6e",
+  "active": "7fb9404453daac86",
   "lastOpenFiles": [
-    "Magic Users.md",
     "README.md",
+    "Rules.md",
     "Rolls.md",
+    "Magic Users.md",
     "Unsorted/egete.md",
     "Unsorted/darjă.md",
     "Unsorted/aθ.md",
@@ -186,7 +200,6 @@
     "Unsorted/Rìštalinaq'a.md",
     "Unsorted/qilinaq'a.md",
     "Unsorted/Predynastic.md",
-    "Unsorted/pratemonleta.md",
     "Unsorted"
   ]
 }
